@@ -1,2 +1,4 @@
 print("aku");
-print("iya");
+print("adalah");
+print("sebuah");
+print("program");
