@@ -1,1 +1,2 @@
 print("aku");
+print("iya");
